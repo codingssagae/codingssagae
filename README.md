@@ -1,9 +1,10 @@
-### Hi👋
+### Hi👋\
 
 STACK
----LANGUAGE : <img src="https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=html5&logoColor=white"> 
----FRAMEWORK :
+---LANGUAGE : <img src="https://simpleicons.org/icons/react.svg" width="30" height="30" /> React
+<img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" height="30" /> Node.js
 
+---FRAMEWORK :
 
 <!--
 **codingssagae/codingssagae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
