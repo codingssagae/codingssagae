@@ -1,4 +1,8 @@
-### 반가워요 코딩 조무사 이건희 입니다. 프론트 보단 백엔드가 적성이 맞아요 👋\
+### Hi👋\
+
+STACK
+---LANGUAGE : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+---FRAMEWORK :
 
 
 <!--
