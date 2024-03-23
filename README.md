@@ -1,5 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spongging)](https://solved.ac/백준아이디/)
 
+<p>프론트하다가 백앤드로 넘어간 사람.</p>
+
 <div align="center">
   <h2>📚 Languages</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
