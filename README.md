@@ -32,6 +32,31 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
+## 🏫 Education & Membership
+
+- **UMC 3기 (프론트)** - 2023
+- **알쿡 (Algorithm Leader of Catholic University of Korea)** - 2023.12 ~ 현재
+- **카카오 - 구름톤 유니브 3기 운영진 (백엔드)**
+- **가톨릭대학교 IT 창업동아리 CSEC** - 회원
+
+## 🏆 Competitions
+
+- **2024 ICPC 참가**
+- **2024 9oormthonUNIV 해커톤 참가**
+- **2024 GGUM 해커톤 및 가톨릭대학교 학술제 참가** (3위 수상)
+- **2024 카카오 - 구름톤 유니브 "단풍톤" 참가**
+
+## 💼 Projects
+
+- **콘 프로젝트** - OTT 컨텐츠 공유 커뮤니티 서비스
+- **냠톨릭** - 가톨릭대 주변 음식점 추천 및 소개 사이트  
+  [nyumtolic.com/restaurant/list](https://nyumtolic.com/restaurant/list)
+- **컴퓨터정보공학 회의실 예약 서비스 개발**
+- **2024 9oormthonUNIV 해커톤 - Floating**  
+  대학생을 위한 아이스브레이킹 서비스 개발
+- **2024 GGUM 해커톤 - 동글동글**  
+  학교 학생들을 위한 동아리 전용 커뮤니티 앱 개발
+
 ## 📞 Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spongging@gmail.com)](mailto:spongging@gmail.com)
 <a href="https://instagram.com/olollolo115">
@@ -39,19 +64,3 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/olollolo115/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-
-<!--
-**codingssagae/codingssagae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
