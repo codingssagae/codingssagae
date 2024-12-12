@@ -26,7 +26,7 @@
 - **콘 프로젝트** - OTT 컨텐츠 공유 커뮤니티 서비스
 - **냠톨릭** - 가톨릭대 주변 음식점 추천 및 소개 사이트  
   [nyumtolic.com/restaurant/list](https://nyumtolic.com/restaurant/list)
-- **컴퓨터정보공학 회의실 예약 서비스 개발**
+- **가톨릭대학교 컴퓨터정보공학부 회의실 예약 서비스 개발**
 - **2024 9oormthonUNIV 해커톤 - Floating**  
   대학생을 위한 아이스브레이킹 서비스 개발
 - **2024 GGUM 해커톤 - 동글동글**  
