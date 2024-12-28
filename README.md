@@ -1,5 +1,9 @@
 <h1 align="center">프론트하다가 백엔드로 넘어간 사람.</h1>
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingssagae&show_icons=true&theme=radical" width="48%">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=spongging" width="48%">
+</p>
 
 ## 🏫 Education & Membership
 
