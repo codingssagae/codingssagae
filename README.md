@@ -1,5 +1,4 @@
 <h1 align="center">프론트하다가 백엔드로 넘어간 사람.</h1>
-[![codingssage GitHub stats](https://github-readme-stats.vercel.app/api?username=codingssagae)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🏫 Education & Membership
