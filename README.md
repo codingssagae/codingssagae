@@ -1,12 +1,11 @@
 <h1 align="center">프론트하다가 백엔드로 넘어간 사람.</h1>
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spongging)](https://solved.ac/백준아이디/)
 ---
 
 ## 🏫 Education & Membership
 
 - **UMC 3기 (프론트)**
 - **알쿡 (Algorithm Leader of Catholic University of Korea)**
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spongging)](https://solved.ac/백준아이디/)
 - **카카오 - 구름톤 유니브 3기 운영진 (백엔드)**
 - **가톨릭대 교내 GGUM 해커톤 운영진**
 - **가톨릭대학교 IT 창업동아리 CSEC**
