@@ -1,5 +1,5 @@
 <h1 align="center">프론트하다가 백엔드로 넘어간 사람.</h1>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spongging)](https://solved.ac/백준아이디/)
+
 ---
 
 ## 🏫 Education & Membership
